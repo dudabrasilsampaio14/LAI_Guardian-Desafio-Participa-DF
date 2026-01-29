@@ -1,192 +1,151 @@
-🛡️ LAI Guardian
-Auditoria, classificação e anonimização de pedidos LAI com foco em LGPD
+🏛️ **LAI Guardian**
+============================================================
 
-O LAI Guardian é uma ferramenta prática para apoiar a triagem de pedidos de acesso à informação. Ele identifica dados pessoais no texto, gera uma versão publicável (com tarjas) e entrega evidências em Excel e JSON, com rastreabilidade para auditoria.
+**Auditoria, Classificação e Anonimização de Pedidos de Acesso à Informação com Foco em LGPD**
 
-A solução foi pensada no fluxo real de trabalho: muito texto, pouco tempo, necessidade de justificar decisões e evitar exposição indevida de informações pessoais.
+1º Hackathon em Controle Social – **Desafio Participa DF**  
+Edital nº 10/2025 – Controladoria-Geral do Distrito Federal (CGDF)  
+Categoria: **Acesso à Informação**
 
-✅ O que ele entrega
-1) Auditoria e classificação (Excel)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![LGPD](https://img.shields.io/badge/Conformidade-LGPD-green)
+![Auditável](https://img.shields.io/badge/Resultado-Auditável-success)
+![Pipeline](https://img.shields.io/badge/Execução-Pipeline%20Completo-blueviolet)
+![Hackathon](https://img.shields.io/badge/Hackathon-Participa%20DF-orange)
 
-Gera um relatório pronto para banca/controle, com filtros e destaque por criticidade.
+---
 
-Colunas principais:
+📌 **Contexto Institucional**
+------------------------------------------------------------
 
-Contem_Dados_Pessoais
+No âmbito da Lei de Acesso à Informação (Lei nº 12.527/2011), pedidos classificados como públicos **não podem conter dados pessoais**, sob pena de violação à Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018).
 
-Tipos_Detectados (CPF, TELEFONE, PROCESSO_SEI, etc.)
+Na prática administrativa, a triagem manual desses pedidos é custosa, sujeita a erro humano e difícil de auditar posteriormente.
 
-Risco_Max (CRÍTICO/ALTO/MÉDIO/BAIXO)
+O **LAI Guardian** surge como uma solução automatizada de **apoio à decisão**, permitindo identificar pedidos que contenham dados pessoais, gerar versões seguras para publicação e produzir evidências técnicas para auditoria e controle.
 
-Qtd_Achados
+---
 
-Motivo
+🎯 **Objetivo da Solução**
+------------------------------------------------------------
 
-Versao_Publicavel
+Apoiar equipes de transparência, ouvidoria e controle interno na análise de pedidos de acesso à informação, reduzindo riscos jurídicos relacionados à LGPD e promovendo **padronização, rastreabilidade e segurança na tomada de decisão**, sem substituir a avaliação humana.
 
-2) Anonimização com trilha de auditoria (JSON)
+---
 
-Para cada pedido, o JSON registra:
+✅ **Funcionalidades Principais**
+------------------------------------------------------------
 
-tipo de dado encontrado
+### 🔍 Auditoria e Classificação Automática
+- Análise textual dos pedidos LAI
+- Identificação de dados pessoais e sensíveis
+- Diferenciação explícita entre:
+  - **dados pessoais (LGPD)**
+  - **identificadores administrativos** (SEI, CNJ, protocolos, números de processo)
 
-valor original (antes da tarja)
+---
 
-posição no texto (span)
+### 🛡️ Anonimização com Trilha de Auditoria
+- Geração de versão publicável do texto (com tarjas)
+- Registro detalhado em JSON contendo:
+  - tipo de dado identificado
+  - valor original
+  - posição no texto
+  - nível de risco
+  - data e hora da detecção
 
-risco atribuído
+---
 
-timestamp
+### 📊 Relatórios Institucionais
+- **Excel no padrão banca / CGDF / TCU**
+- Aba **Resumo Executivo**
+- Aba **Auditoria Detalhada**
+- Filtros automáticos e destaque por criticidade
 
-3) Treinamento de modelo estatístico (opcional)
+---
 
-Se existir um CSV rotulado, o projeto treina um classificador simples (TF-IDF + regressão logística) para atuar como camada de apoio, especialmente em casos limítrofes.
+### 🧠 Camadas Técnicas (Opcional)
+- Treinamento de modelo estatístico leve (TF-IDF + Regressão Logística)
+- Avaliação técnica automática:
+  - Precisão
+  - Recall
+  - F1-Score
+  - Matriz de confusão
 
-4) Avaliação técnica (opcional)
+---
 
-Quando há base rotulada para teste, o sistema calcula métricas técnicas (Precisão, Recall e F1-Score) e gera a matriz de confusão em JSON.
+📊 **Resultados Obtidos em Execução Real**
+------------------------------------------------------------
 
-📊 Resultados obtidos na prática
+Execução do pipeline completo com **99 pedidos** da base *AMOSTRA_e-SIC*:
 
-Em teste real com 99 pedidos da base AMOSTRA_e-SIC, executando o pipeline completo (auditoria → anonimização → treino → avaliação), o LAI Guardian apresentou os seguintes resultados:
+| Métrica | Resultado |
+|------|-----------|
+| Precisão | **100%** |
+| Recall (Segurança) | **100%** |
+| F1-Score | **100%** |
+| Falsos Negativos (FN) | **0** |
 
-Indicadores de desempenho
+> A ausência de falsos negativos é especialmente relevante em contexto de LGPD, pois indica que nenhum pedido com dado pessoal deixou de ser identificado.
 
-Precisão: 100%
+**Resumo da Auditoria:**
+- Total de registros analisados: 99
+- Pedidos com dados pessoais: 52 (52,53%)
 
-Recall (segurança): 100%
+---
 
-F1-Score: 100%
+🚀 **Execução Rápida**
+------------------------------------------------------------
 
-Falsos Negativos (FN): 0
-
-A ausência de falsos negativos é especialmente relevante em contexto de LGPD, pois indica que nenhum pedido com dado pessoal deixou de ser identificado pelo sistema.
-
-Matriz de confusão
-
-Verdadeiros Negativos (VN): 8
-
-Verdadeiros Positivos (VP): 14
-
-Falsos Positivos (FP): 0
-
-Falsos Negativos (FN): 0
-
-Resumo executivo do relatório
-
-Total de registros analisados: 99
-
-Registros com dados pessoais: 52
-
-Percentual com dados pessoais: 52,53%
-
-Distribuição por risco:
-
-CRÍTICO: 0
-
-ALTO: 0
-
-MÉDIO: 46
-
-BAIXO: 6
-
-(sem risco identificado): 47
-
-Esses resultados são automaticamente consolidados na aba “Resumo Executivo” do Excel gerado pelo sistema.
-
-🚀 Uso rápido (um comando)
-
-Na raiz do projeto:
-
+```bash
 python run.py
+O comando executa automaticamente, conforme os arquivos disponíveis:
 
+Auditoria e classificação (Excel)
 
-Esse comando tenta rodar o pipeline completo:
+Anonimização com trilha de auditoria (JSON)
 
-Auditoria + Excel (se existir data/raw/AMOSTRA_e-SIC.xlsx)
+Treinamento e avaliação do modelo (opcional)
 
-Anonimização + JSON (idem)
-
-Treino + avaliação (se existir data/raw/dataset_labeled.csv)
-
-As saídas ficam organizadas em:
+As saídas são organizadas em:
 
 data/processed/run_YYYYMMDD_HHMMSS/
-
-📂 Onde colocar os arquivos
-Excel de entrada (auditoria)
-
-Coloque em:
-
+📂 Estrutura de Entrada Esperada
+Auditoria de pedidos
 data/raw/AMOSTRA_e-SIC.xlsx
-
-
-A coluna padrão esperada é:
+Coluna esperada:
 
 Texto Mascarado
 
-Base rotulada (treino/avaliação)
-
-Coloque em:
-
+Base rotulada (opcional)
 data/raw/dataset_labeled.csv
+🧠 Estratégia de Detecção
+O LAI Guardian adota abordagem híbrida:
 
+Regras e Validações
 
-Colunas mínimas:
-
-text
-
-label_any_pii (0/1)
-
-O repositório já traz um exemplo com colunas adicionais (label_cpf, label_phone, etc.) para ampliar a cobertura.
-
-🧠 Como a detecção funciona (visão honesta)
-
-O LAI Guardian combina três camadas:
-
-Regras e validações
-
-Regex para padrões comuns
+Regex
 
 Validação matemática de CPF (Módulo 11)
 
-Filtros anti-falso-positivo (ex.: telefones × processos)
+Filtros anti-falso-positivo
 
 PLN (opcional)
 
-Reconhecimento de nomes de pessoas via NER (spaCy), quando disponível
+Reconhecimento de entidades (NER)
 
-Modelo estatístico (opcional)
+Modelo Estatístico (opcional)
 
-Classificador leve atuando como “rede de segurança”
+Classificador leve como camada de apoio
 
-Identificadores administrativos (SEI, CNJ, protocolos) são tratados explicitamente para não serem classificados como dados pessoais por engano.
-
-📊 Relatório Excel (padrão banca / CGDF / TCU)
-
-O Excel gerado possui duas abas:
-
-Resumo (executivo): totais, percentuais e distribuição por risco
-
-Auditoria (detalhada): análise linha a linha, com cabeçalho institucional, filtros, bordas, zebra e cores por criticidade
+Identificadores administrativos são tratados explicitamente para evitar classificação indevida como dado pessoal.
 
 ⚙️ Instalação
 python -m venv .venv
-# Windows:
-.venv\Scripts\activate
-# Linux/macOS:
-source .venv/bin/activate
-
+.venv\Scripts\activate   # Windows
+source .venv/bin/activate # Linux/macOS
 pip install -r requirements.txt
-
-
 PLN (opcional):
 
 pip install spacy
 python -m spacy download pt_core_news_sm
-
-🧪 Execução avançada (CLI)
-
-Além do run.py, há um CLI com opções adicionais:
-
-python -m lai_guardian full --help
