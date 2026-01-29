@@ -1,0 +1,23 @@
+text,label_any_pii,label_cpf,label_email,label_phone,label_process,label_address,label_rg,label_cep,label_card,label_name
+"Meu CPF é 529.982.247-25, por favor retornem.",1,1,0,0,0,0,0,0,0,0
+CPF 12345678909 para cadastro.,1,1,0,0,0,0,0,0,0,0
+CPF 111.111.111-11 (exemplo inválido).,0,0,0,0,0,0,0,0,0,0
+Solicito informações sobre a licitação 2025/001.,0,0,0,0,0,0,0,0,0,0
+Contato: maria.silva@df.gov.br para retorno.,1,0,1,0,0,0,0,0,0,0
+Enviar para fulano+teste@gmail.com,1,0,1,0,0,0,0,0,0,0
+Telefone (61) 99999-8888 para contato.,1,0,0,1,0,0,0,0,0,0
+"Meu número é 61999998888, obrigado.",1,0,0,1,0,0,0,0,0,0
+Período 2025-2026 do contrato.,0,0,0,0,0,0,0,0,0,0
+"Resido na SQS 102, 12 Bloco A.",1,0,0,0,0,1,0,0,0,0
+"Endereço: Rua das Flores, 123 Asa Sul.",1,0,0,0,0,1,0,0,0,0
+CEP 70070-000 para correspondência.,1,0,0,0,0,0,0,1,0,0
+RG: 12.345.678-9 consta no documento.,1,0,0,0,0,0,1,0,0,0
+Identidade 1.234.567-8,1,0,0,0,0,0,1,0,0,0
+Cartão 4111 1111 1111 1111 para teste.,1,0,0,0,0,0,0,0,1,0
+Processo SEI 00015-01009853/2026-01 trata de compras públicas.,0,0,0,0,1,0,0,0,0,0
+SEI 00123-0004567/2025-99 referente ao pedido.,0,0,0,0,1,0,0,0,0,0
+Autos CNJ 0701234-56.2025.8.07.0001 em andamento.,0,0,0,0,1,0,0,0,0,0
+Protocolo nº 2025/001 para acompanhamento.,0,0,0,0,1,0,0,0,0,0
+Processo 12345-6789012/2024-10,0,0,0,0,1,0,0,0,0,0
+Solicito acesso. CPF 529.982.247-25 e telefone (61) 3333-2222.,1,1,0,1,0,0,0,0,0,0
+"Contato maria@email.com e moro na Rua X, 10.",1,0,1,0,0,1,0,0,0,0

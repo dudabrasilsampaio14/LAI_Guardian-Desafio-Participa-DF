@@ -1,0 +1,1660 @@
+[
+  {
+    "row": 3,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00015-01009853/2026-01",
+        "risco": "BAIXO",
+        "start": 82,
+        "end": 104,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.552935"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "01009853",
+        "risco": "MÉDIO",
+        "start": 88,
+        "end": 96,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.552935"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "01009853/2026",
+        "risco": "BAIXO",
+        "start": 88,
+        "end": 101,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.552935"
+      }
+    ],
+    "public_text": "Prezados senhores, boa tarde!\n\nSolicito acesso integral aos autos do Processo SEI [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2026-01, com urgência, visto a decorrência de prazo em andamento."
+  },
+  {
+    "row": 5,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00015-00568900/2016-56",
+        "risco": "BAIXO",
+        "start": 50,
+        "end": 72,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.553242"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "00568900",
+        "risco": "MÉDIO",
+        "start": 56,
+        "end": 64,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.553242"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "00568900/2016",
+        "risco": "BAIXO",
+        "start": 56,
+        "end": 69,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.553242"
+      }
+    ],
+    "public_text": "Cidadã, solicita acesso aos autos do processo SEI [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2016-56, haja vista que tal processo versa sobre uma denúncia que fez, no entanto, não lhe fora disponibilizado nenhum documento resultante da apuração."
+  },
+  {
+    "row": 6,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "CEP",
+        "valor": "00569848",
+        "risco": "MÉDIO",
+        "start": 201,
+        "end": 209,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.554336"
+      }
+    ],
+    "public_text": "Venho solicitar junto a Caesb o histórico de consumo da inscrição:157028-1, sob o CPF: 129.180.122-6, Júlio Cesar Alves da Rosa, no período de 12/2002 a 01/2007. E o histórico de consumo da Inscrição: [CEP_MEDIO_OMITIDO]-9, sob o CPF: 210.201.140-24, Maria Martins Mota Silva. Tal solicitação se deve, a fim de fazer o comparativo de consumo destes imóveis no período em que residi com minha família. Preciso solicitar justificativas para um consumo atual muito alto para as características do imóvel, quantidade de pessoas. No primeiro imóvel residiam 10 pessoas o terreno de 2.000 metros quadrados , tinha pomar, grama, piscina (10X6), sauna, instalações antigas com 15 banheiros. Atualmente a casa tem 800 metros quadrados, somente 02 adultos e  04 criança. Pequeno jardim e a casa tem a estrutura toda nova. Foram feitos várias solicitações junto à Caesb e a empresa de caça-vazamentos para que pudéssemos identificar vazamentos e demais anormalidades que causassem esse consumo absurdo.  juntamente com os históricos de consumo citados, desejo receber também as cartas respostas referentes a todas minha solicitações."
+  },
+  {
+    "row": 7,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "1205-1999",
+        "risco": "MÉDIO",
+        "start": 528,
+        "end": 537,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.555189"
+      }
+    ],
+    "public_text": "Prezados bom dia,  Em visita ao Hospital de Apoio de Brasilia onde fui recepcionada e bem atendida pelo Dr Joaquim fui orientada sobre a existência de dados abertos e painel de atenção ao CiD G-10. Neste sentido solicito informação quanto ao perfil do cidadão acometido pela doença de Huntington no Distrito Federal.  Taxa de pacientes atendidos por idade extraidas do Infosaúde do DF.   Solicito o caminho de acesso ao dado aberto público.  Atenciosamente,  Antonio Costa Controladoria-Geral do Distrito Federal Gestor PPGG 21-[TELEFONE_MEDIO_OMITIDO]"
+  },
+  {
+    "row": 9,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 4,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "22009-98514623/2017-26",
+        "risco": "BAIXO",
+        "start": 55,
+        "end": 77,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.555870"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "98514623",
+        "risco": "MÉDIO",
+        "start": 61,
+        "end": 69,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.555870"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "98514623/2017",
+        "risco": "BAIXO",
+        "start": 61,
+        "end": 74,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.555870"
+      },
+      {
+        "tipo": "TELEFONE",
+        "valor": "(54)99199-1000",
+        "risco": "MÉDIO",
+        "start": 444,
+        "end": 458,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.555870"
+      }
+    ],
+    "public_text": "Solicito, gentilmente, acesso pessoal ao processo SEI: [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2017-26, para acompanhar o andamento e as pendências que surgirem, até a sua conclusão.   O processo trata de uma demanda para a solução de um problema de interesse da Paulista Esportes Praça Dom Henrique, a qual faço parte como proprietária.   Encaminho meus documentos pessoais e a Certidão de Ônus do lote, onde consta o meu registro.  Meus dados: Ruth Helena Franco CPF:[TELEFONE_MEDIO_OMITIDO]7 Tel. (54)99199-1000  Observação: Já possuo login e senha para o Sistema SEI.  Atenciosamente, Ruth"
+  },
+  {
+    "row": 12,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 2,
+    "findings": [
+      {
+        "tipo": "CEP",
+        "valor": "12345678",
+        "risco": "MÉDIO",
+        "start": 195,
+        "end": 203,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.559382"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "000012/2026",
+        "risco": "BAIXO",
+        "start": 333,
+        "end": 344,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.559382"
+      }
+    ],
+    "public_text": "Solicito os registros de frequência dos servidores abaixo listados relativos ao período de 31/05/2015 A 01/12/2015:   Associação de Ensino Unificado do Distrito Federal  Lúcio Miguel - MATRÍCULA [CEP_MEDIO_OMITIDO] (TUTOR EDUCACAO SUPERIOR A15)  Leonardo Rocha - MATRÍCULA 98745632D (PROF. EDUCACAO SUPERIOR F16)  Considerando o processo 56478.[PROTOCOLO_BAIXO_OMITIDO]-05 da CGU, tal solicitação não se enquadra em informação pessoal sensível."
+  },
+  {
+    "row": 16,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 2,
+    "findings": [
+      {
+        "tipo": "E-MAIL",
+        "valor": "netolemos@me.pe",
+        "risco": "MÉDIO",
+        "start": 1580,
+        "end": 1595,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.561797"
+      },
+      {
+        "tipo": "TELEFONE",
+        "valor": "4180-1890",
+        "risco": "MÉDIO",
+        "start": 1633,
+        "end": 1642,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.561797"
+      }
+    ],
+    "public_text": "ILUSTRÍSSIMO SENHOR SECRETÁRIO DE ESTADO DE SAÚDE DO DISTRITO FDERAL    OBJETO: SOLICITAÇÃO DE INFORMAÇÕES AO SERVIÇO DE INFORMAÇÕES AO CIDADÃO – SIC REFERENTE AO CONCURSO PÚBLICO EDITAL Nº 85 - SES/DF, DE 02 DE DEZEMBRO 2009 PARA PROVIMENTO DE VAGAS E FORMAÇÃO DE CADASTRO DE RESERVA EM CARGOS DAS CARREIRAS MAGISTÉRIO PÚBLICO E ASSISTÊNCIA À EDUCAÇÃO  Jorge Luiz Pereira Vieira, brasileiro, solteiro, advogado inscrito na OAB/SP sob nº 14.123, inscrito no CPF 101.000.800-73, com escritório profissional estabelecido na Avenida Luciano Coutinho Rua 5, terceiro piso, salas 139 / 140, Edifício Centro Atlântica, Guarulhos-RS, comparece perante Vossa Senhoria, a fim de solicitar informações e providências nos termos seguintes: I – Informar a data de validade e as medidas pertinentes, em relação ao concurso público para fins de provimento de vagas para formação de cadastro de reserva em cargos das Carreiras Magistério Público e Assistência à Educação do Distrito Federal, conforme Edital no  85 - SES/DF, DE 02 de dezembro de 2009; II – Informar sobre a lista de convocados e empossados; III – Informar sobre a relação de candidatos em cadastro de reserva ou remanescentes porventura existentes; IV – Informar sobre a existência de cargos em vacância;  V – Fornecer os editais e demais publicações oficiais sobre o referido certame; Sem mais para o momento, protesta por elevada estima e consideração. Da Região Administrativa do Gama – DF, 16 de agosto de 2010. Cordialmente, _________________________________________________ Jorge Luiz Pereira Vieira OAB/SP 14.123 E-mail: [E-MAIL_MEDIO_OMITIDO] Aplicativo de mensagem WhatsApp: 89 3[TELEFONE_MEDIO_OMITIDO]"
+  },
+  {
+    "row": 21,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "ENDEREÇO",
+        "valor": "Prezados,\n\n1",
+        "risco": "BAIXO",
+        "start": 0,
+        "end": 12,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.564667"
+      }
+    ],
+    "public_text": "[ENDEREÇO_BAIXO_OMITIDO]) Solicitamos informações deste órgão ou entidade sobre o real quantitativo de servidores de carreira (efetivos)\ne servidores comissionados (não efetivos) que estejam lotados na área de Tecnologia da Informação e Comunicação (TIC).\n\nDispor a informação da seguinte forma:\n\nQuantidade de servidores efetivos na área de TIC: xxx\nQuantidade de servidores NÃO efetivos na área de TIC: xxx\n\n2) Do quantitativo de servidores EFETIVOS apresentados, informar qual é o cargo e a carreira em que pertencem os\nservidores lotados na área de tecnologia da informação e comunicação.\n\n(apenas um exemplo abaixo)\n\nDispor a informação da seguinte forma:\n\nCargo: ( Exemplo: Analista )\nCarreira: ( Exemplo: Políticas Públicas e Gestão Governamental)\n\n3) Das áreas abaixo em Tecnologia da Informação e Comunicação, qual o quantitativo de carência de pessoal especializado?\n\nDispor a informação da seguinte forma:\n\na) Gestão e Governança de TIC: xx\nb) Desenvolvimento de Sistemas: xx\nc) Suporte e Infraestrutura de TIC: xx\nd) Análise e Ciência de Dados: xx\ne) Administração de Banco de Dados: xx\nf) Outros: (escrever a área de TIC e o quantitativo de pessoal)\n\nO quantitativo total de carência de pessoal especializado é: xxxxxx\n\nAgradecemos o envio das informações."
+  },
+  {
+    "row": 23,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "CEP",
+        "valor": "56321-021",
+        "risco": "MÉDIO",
+        "start": 139,
+        "end": 148,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.566491"
+      }
+    ],
+    "public_text": "Venho solicitar informações a respeito da Ocupação do Solo pelo o \"Complexo ABC\", Localizado no SAS QUADRA 15 BLC A, SAS, PLANALTINA - DF, [CEP_MEDIO_OMITIDO]. Tendo em Vista modificações de cunho urbanístico ao redor da edificação , como a ampliação e cercamento de área anteriormente de livre circulação de pessoas, essas modificações podem ser comprovadas por meio de fotografias de anos anteriores retiradas do Site Google Maps. Pelos fatos anteriormente narrados, solicito:  1- Documento que esclareça se a área em uso pelo o estabelecimento é domínio público. 2- Documento que comprove a autorização para ocupação de espaço público (Se For o Caso)."
+  },
+  {
+    "row": 24,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00589-01245698/2025-15",
+        "risco": "BAIXO",
+        "start": 34,
+        "end": 56,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.566725"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "01245698",
+        "risco": "MÉDIO",
+        "start": 40,
+        "end": 48,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.566725"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "01245698/2025",
+        "risco": "BAIXO",
+        "start": 40,
+        "end": 53,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.566725"
+      }
+    ],
+    "public_text": "Por qual motivo o Processo Sei nº [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2025-15 não foi atendido até o presente MOMENTO? ELE ESTA PARADO DESDE O DIA 10/05/2025 CONFORME ANEXO."
+  },
+  {
+    "row": 27,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "0315-000009878/2023-15",
+        "risco": "BAIXO",
+        "start": 74,
+        "end": 96,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569069"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "000009878/2023",
+        "risco": "BAIXO",
+        "start": 79,
+        "end": 93,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569069"
+      },
+      {
+        "tipo": "E-MAIL",
+        "valor": "carlos.prr@ho.con",
+        "risco": "MÉDIO",
+        "start": 577,
+        "end": 594,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569069"
+      }
+    ],
+    "public_text": "Prezados,   entro em contato requerendo acesso no autos do processo de nº [PROCESSO_SEI_BAIXO_OMITIDO]OMITIDO]-15 conforme procuração em anexo.   Informo que já houve a solicitação anteriormente onde fui orientado a criar um usuário externo, entretanto, até a presente data não fui habilitado a acessar os autos.   Ao entrar em contato com o DF LEGAL fui orientado a requerer novamente a solicitação e informar o usuário externo.  Portanto passo as seguintes informações:  Nome do requerente: Roberto Carlos Pereira Nome da parte representada: Antônio Garcia Soares CPF: 141.161.100-51 E-mail: [E-MAIL_MEDIO_OMITIDO]   Atenciosamente,  Roberto Carlos Pereira"
+  },
+  {
+    "row": 28,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "2023041400",
+        "risco": "MÉDIO",
+        "start": 46,
+        "end": 56,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569174"
+      }
+    ],
+    "public_text": "Solicito ocorrência atendida pelo CBMDF de nº [TELEFONE_MEDIO_OMITIDO]200259."
+  },
+  {
+    "row": 29,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "CEP",
+        "valor": "78965412",
+        "risco": "MÉDIO",
+        "start": 311,
+        "end": 319,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569532"
+      }
+    ],
+    "public_text": "Solicito informação a respeito da existência bens tombados a nível distrital que possam gerar área envoltória e/ou restrições urbanísticas para novas construções que possam atingir o imóvel de interesse localizado no seguinte endereço: Comercial II, Rua 41, Lo 20, CEP 20031 - 900, com inscrição imobiliária nº [CEP_MEDIO_OMITIDO]  e matrícula nº 654.789 8ºRI. A informação é para fins de Estudo de Viabilidade Técnica e Legal - EVTL para empreendimento comercial."
+  },
+  {
+    "row": 30,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "12398-00000018/2015-23",
+        "risco": "BAIXO",
+        "start": 31,
+        "end": 53,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569621"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "00000018",
+        "risco": "MÉDIO",
+        "start": 37,
+        "end": 45,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569621"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "00000018/2015",
+        "risco": "BAIXO",
+        "start": 37,
+        "end": 50,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569621"
+      }
+    ],
+    "public_text": "informações sobre o processo : [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2015-23 adasa df"
+  },
+  {
+    "row": 31,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 6,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "10259-65478321/2018-25",
+        "risco": "BAIXO",
+        "start": 138,
+        "end": 160,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569822"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "65478321",
+        "risco": "MÉDIO",
+        "start": 144,
+        "end": 152,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569822"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "65478321/2018",
+        "risco": "BAIXO",
+        "start": 144,
+        "end": 157,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569822"
+      },
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "10259-65478441/2018-56",
+        "risco": "BAIXO",
+        "start": 174,
+        "end": 196,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569822"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "65478441",
+        "risco": "MÉDIO",
+        "start": 180,
+        "end": 188,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569822"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "65478441/2018",
+        "risco": "BAIXO",
+        "start": 180,
+        "end": 193,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569822"
+      }
+    ],
+    "public_text": "Boa Tarde,\n\nGostaria de informação sobre processo iniciado na Polícia Civil do DF e não teve resposta concreta até o momento\n\nProcesso n° [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2018-25\n\nProcesso n° [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2018-56\n\nGrato."
+  },
+  {
+    "row": 32,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00258-36985274/2017-43",
+        "risco": "BAIXO",
+        "start": 32,
+        "end": 54,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569920"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "36985274",
+        "risco": "MÉDIO",
+        "start": 38,
+        "end": 46,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569920"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "36985274/2017",
+        "risco": "BAIXO",
+        "start": 38,
+        "end": 51,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.569920"
+      }
+    ],
+    "public_text": "SOLICITO ACESSO AO PROCESSO SEI [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2017-43"
+  },
+  {
+    "row": 33,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "2305-8526",
+        "risco": "MÉDIO",
+        "start": 77,
+        "end": 86,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.570219"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "85265475",
+        "risco": "MÉDIO",
+        "start": 82,
+        "end": 90,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.570219"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "85265475/2023",
+        "risco": "BAIXO",
+        "start": 82,
+        "end": 95,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.570219"
+      }
+    ],
+    "public_text": "Boa tarde!  Gostaria de acesso aos documentos que instruem o processo SEI nº0[TELEFONE_MEDIO_OMITIDO]TOCOLO_BAIXO_OMITIDO]ITIDO]/2023-55.  Pelo site de pesquisa pública eu consigo abrir o processo e verificar o seu andamento, mas não é possível abrir os documentos juntados ao processo e acessar o seu teor.  Antecipadamente, agradeço Maria Rodrigues de Araújo OAB/PA-59786"
+  },
+  {
+    "row": 34,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "2021852741",
+        "risco": "MÉDIO",
+        "start": 45,
+        "end": 55,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.570306"
+      }
+    ],
+    "public_text": "Solicito ocorrência atendida pelo PMDF de nº [TELEFONE_MEDIO_OMITIDO]963258."
+  },
+  {
+    "row": 37,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "589642/2018",
+        "risco": "BAIXO",
+        "start": 60,
+        "end": 71,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.572078"
+      }
+    ],
+    "public_text": "Boa tarde! Gostaria de consultar o andamento do processo nº [PROTOCOLO_BAIXO_OMITIDO]-58 realizado em 02/09/2018, solicitando a isenção da TFE ref. o ano 2018 da empresa CARLA PATRICIA GONÇALVES LTDA CNPJ: 25.598.301/0001-68. Solicitação realizada presencialmente na unidade da Terracap na Adm. do Jardim Botânico/DF.   Desde já agradeço."
+  },
+  {
+    "row": 38,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 5,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "05896-00000589/2017-93",
+        "risco": "BAIXO",
+        "start": 27,
+        "end": 49,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.572264"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "00000589",
+        "risco": "MÉDIO",
+        "start": 33,
+        "end": 41,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.572264"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "00000589/2017",
+        "risco": "BAIXO",
+        "start": 33,
+        "end": 46,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.572264"
+      },
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00089-98563214/2017-01",
+        "risco": "BAIXO",
+        "start": 52,
+        "end": 74,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.572264"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "98563214",
+        "risco": "MÉDIO",
+        "start": 58,
+        "end": 66,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.572264"
+      }
+    ],
+    "public_text": "Solicito cópia do processo [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2017-93 e [PROCESSO_SEI_BAIXO_OMITIDO]DO]/2017-01, que versam sobre a reestruturação da carreira da Assistência Judiciária."
+  },
+  {
+    "row": 39,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00256-25631478/2022-34",
+        "risco": "BAIXO",
+        "start": 46,
+        "end": 68,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.572725"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "25631478",
+        "risco": "MÉDIO",
+        "start": 52,
+        "end": 60,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.572725"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "25631478/2022",
+        "risco": "BAIXO",
+        "start": 52,
+        "end": 65,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.572725"
+      }
+    ],
+    "public_text": "Venho solicitar acesso externo ao processo nº [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2022-34 referente ao Termo de Acordo de Cooperação 25/2022 - AC 25/2022 firmado entre a Secretaria de Estado de Obras e Infraestrutura – SO/DF e a Sistema de Cooperativas Financeiras do Brasil - SICOOB. Segue anexo procuração em meu nome para representar a SICOOB junto à SO/DF, e Termo de Acordo de Concordância. Segue também cópia da CNH digital e comprovante de endereço"
+  },
+  {
+    "row": 41,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "2019258741",
+        "risco": "MÉDIO",
+        "start": 45,
+        "end": 55,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.573144"
+      }
+    ],
+    "public_text": "Solicito ocorrência atendida pelo PMDF de nº [TELEFONE_MEDIO_OMITIDO]369456."
+  },
+  {
+    "row": 46,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 2,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "0025-0005",
+        "risco": "MÉDIO",
+        "start": 24,
+        "end": 33,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.576207"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "000598/2006",
+        "risco": "BAIXO",
+        "start": 29,
+        "end": 40,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.576207"
+      }
+    ],
+    "public_text": "Ref.:  Processo SEI nº  [TELEFONE_MEDIO_OMITIDO]TOCOLO_BAIXO_OMITIDO]    Ilustres Servidores do Departamento de Trânsito do DF,  Cumprimentando-os cordialmente, o escritório Cassandra Rodrigues Advogados Associados, vem, por meio deste advogado que este subscreve, representando os interesses da WT VIDA EMPREENDIMENTOS IMOBILIÁRIOS LTDA., expor e requerer o quanto segue.  Nos termos do artigo 7º, inciso XV do Estatuto da Ordem dos Advogados do Brasil (Lei nº 8.906/94) é direito do advogado ter vista dos processos judiciais ou administrativos de qualquer natureza, em cartório ou na repartição competente, ou retirá-los pelos prazos legais.  Cumpre invocar também o disposto no artigo 5º, inciso XXXIII, artigo 37, §3º, inciso II e artigo 216, §2º da Constituição Federal, bem como na Lei 12.527/2011, que garantem o acesso à informação.   Desta feita, considerando que nos autos do processo em epígrafe constam documentos que não foram fornecidos quando solicitados e, tendo em vista a previsão legal supracitada, requer-se o acesso à seguinte documentação, em caráter de urgência:  2.png  Ademais, encaminho o instrumento de procuração, em anexo, por meio do qual a WT VIDA EMPREENDIMENTOS IMOBILIÁRIOS LTDA. outorga poderes para este escritório representá-lo perante órgãos e repartições públicas do Governo do Distrito Federal.  Desde já agradecemos pela atenção e disponibilidade e aguardamos retorno por parte de vossas senhorias.  Atenciosamente,"
+  },
+  {
+    "row": 49,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "01785/2022",
+        "risco": "BAIXO",
+        "start": 97,
+        "end": 107,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.577478"
+      },
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00258-0065123/2022-12",
+        "risco": "BAIXO",
+        "start": 418,
+        "end": 439,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.577478"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "0065123/2022",
+        "risco": "BAIXO",
+        "start": 424,
+        "end": 436,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.577478"
+      }
+    ],
+    "public_text": "Gostaria de informar aqui que realizei uma solicitação no Participa-DF que gerou o protocolo OUV-[PROTOCOLO_BAIXO_OMITIDO], ao Departamento de Estradas e Rodagem do Distrito Federal- DER-DF, para que, dentro das possibilidades, possa realizar a instalação de um semáforo em frente ao Jardim Botânico Shopping. O DER-DF informou a mim que foi gerado um Processo, e agora será tratado pela área responsável por meio do Processo Sei n° [PROCESSO_SEI_BAIXO_OMITIDO]O_OMITIDO]-12.  Gostaria de solicitar a este mesmo Departamento o acesso externo a este processo para acompanhamento da solicitação.  Lúcio Leonardo Rocha 519.183.164-30"
+  },
+  {
+    "row": 50,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 2,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "0032185265",
+        "risco": "MÉDIO",
+        "start": 34,
+        "end": 44,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.577585"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "0032185265/2024",
+        "risco": "BAIXO",
+        "start": 34,
+        "end": 49,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.577585"
+      }
+    ],
+    "public_text": "Solicita-se acesso ao Processo nº [PROTOCOLO_BAIXO_OMITIDO]_OMITIDO]/2024."
+  },
+  {
+    "row": 53,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "45 3578-6249",
+        "risco": "MÉDIO",
+        "start": 1295,
+        "end": 1307,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.582607"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "3578-6249",
+        "risco": "BAIXO",
+        "start": 1298,
+        "end": 1307,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.582607"
+      },
+      {
+        "tipo": "E-MAIL",
+        "valor": "neto@e-ce.adv.ja",
+        "risco": "MÉDIO",
+        "start": 1332,
+        "end": 1348,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.582607"
+      }
+    ],
+    "public_text": "Solicita-se informações acerca do recebimento dos materiais quanto à(s):  Nota fiscal: 5867.  Valor total de R$ 900,00.  Documento/Empenho Nº 2021NE12396.  CJ SAÚDE IMOBILIÁRIA LTDA, CNPJ n° 98.654.123/0001-25.  ADMINISTRACAO REGIONAL DO PARK WAY - RA XXIV.   Os produtos entregues estão de acordo com o exigido no edital?  Há alguma pendência a ser resolvida pela empresa para liberação do pagamento? Qual o número e a forma de consulta do processo administrativo gerado para efetivar o pagamento? Já foi efetuado o ateste, recebimento provisório e/ou definitivo? Se não, qual é o nome e contato do servidor responsável por este procedimento? Se o ateste já foi efetuado, a nota fiscal já foi encaminhada para o setor responsável pelo pagamento? Se não, qual o nome e contato do servidor que não deu encaminhamento. Se sim, qual o nome e contato do servidor que recebeu a nota. O recurso é proveniente de Convênio/Emenda Parlamentar? Se sim, já foram efetuados todos os trâmites para recebimento? Qual a previsão de pagamento? Informar nome, telefone e contato do setor responsável por efetuar o pagamento. Observação: Caso haja resposta por e-mail, somente finalizar a presente demanda após a CONFIRMAÇÃO de recebimento.  Qualquer dúvida, entrar em contato via ligação ou WhatsApp no telefone [TELEFONE_MEDIO_OMITIDO]O_BAIXO_OMITIDO], ou por meio do E-mail: [E-MAIL_MEDIO_OMITIDO]  Em resposta, informar o Número Interno 789321."
+  },
+  {
+    "row": 54,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "01235-36965412/2025-02",
+        "risco": "BAIXO",
+        "start": 28,
+        "end": 50,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.582823"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "36965412",
+        "risco": "MÉDIO",
+        "start": 34,
+        "end": 42,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.582823"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "36965412/2025",
+        "risco": "BAIXO",
+        "start": 34,
+        "end": 47,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.582823"
+      }
+    ],
+    "public_text": "Solicito acesso ao processo [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2025-02"
+  },
+  {
+    "row": 58,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "8123-5422",
+        "risco": "MÉDIO",
+        "start": 800,
+        "end": 809,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.584795"
+      }
+    ],
+    "public_text": "Boa tarde quero faze uma reclamação com neoenergia, tô quebrando cabeça com eles a mais de um mês,  fiz um pedido de ligação nova de energia pra minha casa, toda vez vai um fiscal diferente, sempre com desculpa de que tá faltando algo pra eles ligarem, fazendo eu compra material atoa, a última vez que foram pediram pra mim trocar a caixa padrão, fui lá troquei, hoje foram lá, falaram que tenho que trocar o poste, eles não passa informação correta. Sempre arruma um problema, lá e zona rural, as pessoas todas lá usar gato, eles não tá nem aí, quero regularizar  meu eles fazem isso... caso eles não tome providência vou fazer como os outros.. tô casado de quebra cabeça com CEB .esse é endereço. ER ES 050 m 26 CASA O E DOS 95 A LOTE 005 - A  Francisco Barbosa Marques   Cpf 982.123.188-57  15  8[TELEFONE_MEDIO_OMITIDO]"
+  },
+  {
+    "row": 59,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 4,
+    "findings": [
+      {
+        "tipo": "E-MAIL",
+        "valor": "blog@abril.com",
+        "risco": "MÉDIO",
+        "start": 43,
+        "end": 57,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.584994"
+      },
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00369-58964125/2023-65",
+        "risco": "BAIXO",
+        "start": 102,
+        "end": 124,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.584994"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "58964125",
+        "risco": "MÉDIO",
+        "start": 108,
+        "end": 116,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.584994"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "58964125/2023",
+        "risco": "BAIXO",
+        "start": 108,
+        "end": 121,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.584994"
+      }
+    ],
+    "public_text": "Solicito que seja enviado para o meu email [E-MAIL_MEDIO_OMITIDO] o meu processo de aposentadoria no FAPDF n. [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2023-65"
+  },
+  {
+    "row": 60,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "E-MAIL",
+        "valor": "jornal@sociedade.con",
+        "risco": "MÉDIO",
+        "start": 78,
+        "end": 98,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.585367"
+      }
+    ],
+    "public_text": "Bom dia.  Eu Beatriz Oliveira Nunes, portadora do CPF: 060.000.186-12, email: [E-MAIL_MEDIO_OMITIDO], preciso de uma informação, eu entrei com uma defesa prévia de uma multa e queria consulta-lá, gostaria de saber o que diz no processo até agora ou se já foi concluido o processo."
+  },
+  {
+    "row": 61,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 2,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "7893214568",
+        "risco": "MÉDIO",
+        "start": 542,
+        "end": 552,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.586500"
+      },
+      {
+        "tipo": "TELEFONE",
+        "valor": "4568523652",
+        "risco": "MÉDIO",
+        "start": 807,
+        "end": 817,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.586500"
+      }
+    ],
+    "public_text": "Bom dia,   Eu ja tenho a viabilidade aprovada. porém a junta me pede para eu fazer uma nova viabilidade alegando o nome da empresa!  neste caso o número protocolo integrado vai mudar e a taxa foi paga como faço para aproveitamento a viabilidade aprovada e só atualizar o nome e as exigência da junta comercial. Pois pelo que eu entendo para eu fazer uma nova viabilidade tenho que cancelar a que está vigente, fazer uma nova com certeza terá outro número e como vou fazer com a taxa paga.  motivo pendência nota explicativa 1. corrigir nire: [TELEFONE_MEDIO_OMITIDO]-7 89- prezado senhor usuário, orientamos fazer uma nova viabilidade de nome empresarial e retirar o ( 01 ) constante após a natureza jurídica do nome empresarial  CO S DE E Ltda  Preciso de orientação em referencia a taxa que foi pago com o protocolo DFP[TELEFONE_MEDIO_OMITIDO], COMO MANTER ENTE NUMERO"
+  },
+  {
+    "row": 65,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 4,
+    "findings": [
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "0001-24",
+        "risco": "BAIXO",
+        "start": 113,
+        "end": 120,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.587659"
+      },
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00256-12558945/2019-32",
+        "risco": "BAIXO",
+        "start": 134,
+        "end": 156,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.587659"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "12558945",
+        "risco": "MÉDIO",
+        "start": 140,
+        "end": 148,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.587659"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "12558945/2019",
+        "risco": "BAIXO",
+        "start": 140,
+        "end": 153,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.587659"
+      }
+    ],
+    "public_text": "Solicito o envio da Certidão (negativa, positiva, explicativa) da Future Automação e Dados Ltda, CNPJ 56.478.854/[PROTOCOLO_BAIXO_OMITIDO], processo nº [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2019-32."
+  },
+  {
+    "row": 66,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "47856-00236987/2026-54",
+        "risco": "BAIXO",
+        "start": 123,
+        "end": 145,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.587858"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "00236987",
+        "risco": "MÉDIO",
+        "start": 129,
+        "end": 137,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.587858"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "00236987/2026",
+        "risco": "BAIXO",
+        "start": 129,
+        "end": 142,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.587858"
+      }
+    ],
+    "public_text": "Bom dia.\nPreciso ter acesso a um processo meu, no Der, para ver o prazo para recurso. Quais os passos?\nNúmero do processo: [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2026-54"
+  },
+  {
+    "row": 68,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "04523-00985412/2025-86",
+        "risco": "BAIXO",
+        "start": 43,
+        "end": 65,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.588358"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "00985412",
+        "risco": "MÉDIO",
+        "start": 49,
+        "end": 57,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.588358"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "00985412/2025",
+        "risco": "BAIXO",
+        "start": 49,
+        "end": 62,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.588358"
+      }
+    ],
+    "public_text": "Peço gentilmente, acesso ao processo SEI n°[PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2025-86, do Comitê Especial de Combate ao Assédio no Ambiente de Trabalho. Tal processo foi repassado a Secretaria de Estado de Saúde do Distrito Federal, em que mudaram o número do processo, desde então, não consigo fazer o acompanhamento do processo, como parte denunciante e interessada.  Desde já agradeço a compreensão! Ana Cristina Cardoso Ribeiro Sousa."
+  },
+  {
+    "row": 70,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00254-78541261/2018-95",
+        "risco": "BAIXO",
+        "start": 70,
+        "end": 92,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.588556"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "78541261",
+        "risco": "MÉDIO",
+        "start": 76,
+        "end": 84,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.588556"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "78541261/2018",
+        "risco": "BAIXO",
+        "start": 76,
+        "end": 89,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.588556"
+      }
+    ],
+    "public_text": "Prezados(as),\n\nPor gentileza, solicito acesso ao processo número SEI: [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2018-95\n\nO processo envolve o meu nome!\n\nObrigada."
+  },
+  {
+    "row": 71,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00254-00000684/2024-36",
+        "risco": "BAIXO",
+        "start": 63,
+        "end": 85,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.588713"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "00000684",
+        "risco": "MÉDIO",
+        "start": 69,
+        "end": 77,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.588713"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "00000684/2024",
+        "risco": "BAIXO",
+        "start": 69,
+        "end": 82,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.588713"
+      }
+    ],
+    "public_text": "Solicito acesso à integra de processo de meu interesse número  [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2024-36, atualmente no DER/DG/CONV/GEN/NUE"
+  },
+  {
+    "row": 72,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 4,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "09832-85247800/2023-53",
+        "risco": "BAIXO",
+        "start": 149,
+        "end": 171,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.589024"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "85247800",
+        "risco": "MÉDIO",
+        "start": 155,
+        "end": 163,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.589024"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "85247800/2023",
+        "risco": "BAIXO",
+        "start": 155,
+        "end": 168,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.589024"
+      },
+      {
+        "tipo": "TELEFONE",
+        "valor": "0856321475",
+        "risco": "MÉDIO",
+        "start": 227,
+        "end": 237,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.589024"
+      }
+    ],
+    "public_text": "Eu, Paulo Roberto Braga Nascimento, Procurador do Estado do Mato Grosso do Sul, mandato ex lege, solicito acesso à cópia integral do processo SEI nº [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2023-53, da Secretaria de Estado de Economia do Distrito Federa[TELEFONE_MEDIO_OMITIDO] da CDA n. 08563214753."
+  },
+  {
+    "row": 75,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 4,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00237-14235698/2021-31",
+        "risco": "BAIXO",
+        "start": 124,
+        "end": 146,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.590979"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "14235698",
+        "risco": "MÉDIO",
+        "start": 130,
+        "end": 138,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.590979"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "14235698/2021",
+        "risco": "BAIXO",
+        "start": 130,
+        "end": 143,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.590979"
+      },
+      {
+        "tipo": "ENDEREÇO",
+        "valor": " XXXIII, 37",
+        "risco": "BAIXO",
+        "start": 431,
+        "end": 442,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.590979"
+      }
+    ],
+    "public_text": "ILUSTRÍSSIMO SENHOR SECRETÁRIO DA SECRETARIA DE ESTADO DE DESENVOLVIMENTO URBANO E HABITAÇÃO - SEDUH  Ref.: PROCESSO SEI nº [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2021-31  José Paulo Lacerda Almeida, já devidamente qualificado nos autos do processo em epígrafe, vem, respeitosamente e com o acatamento de estilo, à presença de Vossa Excelência, por intermédio de seu advogado, Paulo SA AN Martins, inscrito na OAB/RJ 15.753, com fundamento nos artigos 5º,[ENDEREÇO_BAIXO_OMITIDO], §3º, II e 216, todos da Constituição Federal, no artigo 3º, I da Lei de Acesso à Informação (Lei nº 12.527/11) bem como, nos artigos 2º, V, VII, e X, e 68 da Lei 9.704/99, requerer a renovação de acesso aos autos do processo em epígrafe, para que o requerente possa apresentar defesas, recursos e se manifestar na integra do processo."
+  },
+  {
+    "row": 76,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 2,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "0003689712",
+        "risco": "MÉDIO",
+        "start": 82,
+        "end": 92,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.591185"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "0003689712003/2025",
+        "risco": "BAIXO",
+        "start": 82,
+        "end": 100,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.591185"
+      }
+    ],
+    "public_text": "Prezados Senhores,\n\nTem a presente o intuito de solicitar o acesso ao processo nº [PROTOCOLO_BAIXO_OMITIDO]ITIDO]003/2025-06, pelo portal SEI.\n\nAtenciosamente,"
+  },
+  {
+    "row": 78,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "2204568700",
+        "risco": "MÉDIO",
+        "start": 32,
+        "end": 42,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.591808"
+      }
+    ],
+    "public_text": "Solicito cópia de ocorrência nº [TELEFONE_MEDIO_OMITIDO]193025  "
+  },
+  {
+    "row": 79,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 2,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "1002-8532",
+        "risco": "MÉDIO",
+        "start": 19,
+        "end": 28,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.591881"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "853241/2019",
+        "risco": "BAIXO",
+        "start": 24,
+        "end": 35,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.591881"
+      }
+    ],
+    "public_text": "Acesso ao processo [TELEFONE_MEDIO_OMITIDO]TOCOLO_BAIXO_OMITIDO]."
+  },
+  {
+    "row": 80,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "ENDEREÇO",
+        "valor": "DER deve abonar todos meus dias a partir da declaração, 15/05",
+        "risco": "BAIXO",
+        "start": 1552,
+        "end": 1613,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.594017"
+      }
+    ],
+    "public_text": "Sou servidor do DER-DF, na época da pandemia como sou asmático solicitei teletrabalho, abri o processo SEI, No entanto, tive que solicitar o laudo na rede pública de saúde e a emissão desse laudo demorou tendo em vista a morosidade da rede pública de saúde do DF e a crise do covid-19.\nSabe-se que no dia 15/05/2021 eu declarei que era asmático, e o laudo/consulta foi realizado somente em 28/07/2021, logo eu já era asmático desde a data da solicitação do teletrabalho e me afastei por recomendações da secretária de saúde por meio de sua comunicação social e pela minha chefia.\nO risco de o asmático adquirir a COVID-19 e ir a óbito é alto, então fiquei sem saída e ausentar até laudo/consulta ser concluído. Quem do órgão já me viu ao vivo sabe que sou asmático.\nO setor NUDE, após eu inserir o laudo no processo SEI homologou apenas a partir de 28/07/2021.\nOs meus dias entre  15/05/2021 até 28/07/2021 ficaram descobertos, ou seja, levei falta injustificada, sabendo o NUDE e minha chefia imediata que era grupo de risco.\nNesse sentido acredito que o NUDE convalidou o meu requerimento do dia 15/05/2021.\nSolicito informação perante esta corte, para me esclarecer como fica essa minha situação, estávamos em pandemia, eu era grupo de risco desde 15/05/2021 e tive que aguardar consulta e laudo emitido pela rede pública de saúde.\nNo meu termo de declaração inicial eu assumi todas as responsabilidades de uma possível fraude quanto a declaração de asma, que apenas teve a ratificação com o laudo do que eu havia declarado.\nDAS PERGUNTAS\n1- O NUDE/[ENDEREÇO_BAIXO_OMITIDO]/2021?\n2- O fato de NUDE/DER homologar o laudo a partir de 28/07/2021 sem considerar o protocolo do dia  15/05/2021 convalidou o ato?\n3- Em 28/07/2021 o NUDE/DER homologou um laudo de 28/07/2021 de um requerimento de  15/05/2021 sem a necessidade de reabrir novo requerimento utilizando o requerimento do dia  15/05/2021, então o setor homologou esse tempo todo de forma implícita?"
+  },
+  {
+    "row": 82,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "ENDEREÇO",
+        "valor": " quantas denúncias de Lei Maria da Penha foram feitas no DF em 2023, 2022",
+        "risco": "BAIXO",
+        "start": 14,
+        "end": 87,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.594561"
+      }
+    ],
+    "public_text": "Quero saber:\n-[ENDEREÇO_BAIXO_OMITIDO], 2021, 2020 e 2019.\n- quantas dessas denúncias, em cada ano, tiveram o indiciamento do autor da violência."
+  },
+  {
+    "row": 83,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 2,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "1000258954",
+        "risco": "MÉDIO",
+        "start": 261,
+        "end": 271,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.594934"
+      },
+      {
+        "tipo": "TELEFONE",
+        "valor": "0002574863",
+        "risco": "MÉDIO",
+        "start": 274,
+        "end": 284,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.594934"
+      }
+    ],
+    "public_text": "Prezados, boa noite.  Na qualidade de representante da BIOCASA COMERCIO DE MATERIAL FISIOTERÁPICO LTDA - ME, solicito, gentilmente, o envio dos Processos Administrativos, extratos, bem como quaisquer outras informações relativas às Certidões de Dívida Ativa nº [TELEFONE_MEDIO_OMITIDO] e [TELEFONE_MEDIO_OMITIDO].  Agradeço a disponibilidade e aguardo o retorno.  Atenciosamente,"
+  },
+  {
+    "row": 84,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "1234567890",
+        "risco": "MÉDIO",
+        "start": 342,
+        "end": 352,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.595483"
+      },
+      {
+        "tipo": "TELEFONE",
+        "valor": "78945612378",
+        "risco": "MÉDIO",
+        "start": 408,
+        "end": 419,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.595483"
+      },
+      {
+        "tipo": "TELEFONE",
+        "valor": "3216549873",
+        "risco": "MÉDIO",
+        "start": 439,
+        "end": 449,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.595483"
+      }
+    ],
+    "public_text": "Bom dia, prezados(as).  Solicito, por gentileza, que me seja fornecida uma declaração em que conste meus dados cadastrais, tal como registrados no seu banco de dados, em que contenha meu nome, CPF, filiação, e características pessoais como Cor de pele e tipo de cabelo (caso façam parte do seu banco de dados).  Nome: João Lopes Ribeiro CPF: [TELEFONE_MEDIO_OMITIDO]8 RG: 0987654 Mãe:Gabriela Isabel Campos Lima Cruz CNH: [TELEFONE_MEDIO_OMITIDO] Título de eleitor: [TELEFONE_MEDIO_OMITIDO]21 (zona 01, seção 123) CTPS: 65421 - Série: 00123/DF  At.te  João Ribeiro"
+  },
+  {
+    "row": 85,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 4,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "0035-15329875/2017-75",
+        "risco": "BAIXO",
+        "start": 58,
+        "end": 79,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.595828"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "15329875",
+        "risco": "MÉDIO",
+        "start": 63,
+        "end": 71,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.595828"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "15329875/2017",
+        "risco": "BAIXO",
+        "start": 63,
+        "end": 76,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.595828"
+      },
+      {
+        "tipo": "TELEFONE",
+        "valor": "1564-6853",
+        "risco": "MÉDIO",
+        "start": 123,
+        "end": 132,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.595828"
+      }
+    ],
+    "public_text": "Eu solicito acesso externo cópia integral do processo SEI [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2017-75.\n\nMOTIVO:\n\nEm decorrência do Auto De Infraç[TELEFONE_MEDIO_OMITIDO]tória nº H-1564-685324-OEU.\nEm caráter de urgência, considerando tenho prazo de 25 dias a partir de 27.02.2022 para interpor recurso."
+  },
+  {
+    "row": 87,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00025-45625713/2019-85",
+        "risco": "BAIXO",
+        "start": 58,
+        "end": 80,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.596846"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "45625713",
+        "risco": "MÉDIO",
+        "start": 64,
+        "end": 72,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.596846"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "45625713/2019",
+        "risco": "BAIXO",
+        "start": 64,
+        "end": 77,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.596846"
+      }
+    ],
+    "public_text": "Solicito o acesso aos autos do Processo Administrativo Nº [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2019-85 protocolado no SEE/SUAG/CLOG/DIAP/NPR. Em que o teor é o requerimento de uma agenda com o Governador para receber as associações representativas de interessados direta e indiretamente no projeto de concessão da Rodoviária do Plano Piloto."
+  },
+  {
+    "row": 92,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 4,
+    "findings": [
+      {
+        "tipo": "ENDEREÇO",
+        "valor": " a título de ajuda financeira, 50",
+        "risco": "BAIXO",
+        "start": 133,
+        "end": 166,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.604479"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "258453/2026",
+        "risco": "BAIXO",
+        "start": 936,
+        "end": 947,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.604479"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "258453/2026",
+        "risco": "BAIXO",
+        "start": 1004,
+        "end": 1015,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.604479"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "258453/2026",
+        "risco": "BAIXO",
+        "start": 1096,
+        "end": 1107,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.604479"
+      }
+    ],
+    "public_text": "Segundo o item 15.4.1 do Edital Concurso Público Nº 02/2026 - ACI, o candidato matriculado no curso de formação profissional percebe,[ENDEREÇO_BAIXO_OMITIDO]% (cinquenta por cento) do vencimento básico fixado para o padrão inicial do cargo, até a data de desligamento do curso de formação profissional, com base nesse item, solicito esclarecimentos da CGDF-DF se existe alguma ilegalidade ou impedimento para recebimento da ajuda financeira por candidatos que sejam servidores efetivos de outros entes federativos (União, Estados ou Municípios), que estejam em gozo de férias ou licença não remunerada para participar do curso de formação profissional do referido certame. Além disso, havendo impedimento legal, solicito orientação da CGDF-DF sobre como proceder durante a matrícula no curso de formação, para dirimir as dúvidas dos candidatos que se encontram nessa situação.\n\nNuma solicitação anterior à SEEC - Protocolo LAI-[PROTOCOLO_BAIXO_OMITIDO] (328647128), foi informado que:\n\nAssunto: Protocolo LAI-[PROTOCOLO_BAIXO_OMITIDO]\n\n1. Trata-se do Despacho ? SEEC/GAB/OUV (687532419), referente ao Protocolo LAI-[PROTOCOLO_BAIXO_OMITIDO] (328647128), por meio do qual o interessadonsolicita informações sobre matrícula no curso de formação para o servidor efetivo de outros entes federativos (União, Estados ou Municípios),\nespecialmente acerca da ajuda financeira, disposto no Edital Concurso Público Nº 02/2026 - ACI.\n\n2. Assim, entende-se, que a consulta em tela deve ser encaminhada à unidade de gestão de pessoas do órgão de lotação do requerente, para que, à luz da legislação vigente, seja avaliada a possibilidade ou não do recebimento do valor da ajuda financeira referente ao curso de formação.\n\n3. Em face das considerações apresentadas, encaminho os autos a essa Unidade para conhecimento e providências pertinentes.\n\nDiante dessa resposta emitida pela SEEC, encaminho para a CGDF-DF novo pedido de informações a respeito do questionamento em tela, visto que o cargo para o qual concorro no certame (Auditor de Controle Interno)  faz parte da estrutura desta secretaria.\n\nAtenciosamente,"
+  },
+  {
+    "row": 94,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 4,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "00037-12687439/2024-02",
+        "risco": "BAIXO",
+        "start": 54,
+        "end": 76,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.605125"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "12687439",
+        "risco": "MÉDIO",
+        "start": 60,
+        "end": 68,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.605125"
+      },
+      {
+        "tipo": "TELEFONE",
+        "valor": "11 78965412",
+        "risco": "MÉDIO",
+        "start": 142,
+        "end": 153,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.605125"
+      },
+      {
+        "tipo": "E-MAIL",
+        "valor": "psyahoo@mega.com",
+        "risco": "MÉDIO",
+        "start": 145,
+        "end": 161,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.605125"
+      }
+    ],
+    "public_text": "Olá!   Quero ter acesso ao processo administrativo:   [PROCESSO_SEI_BAIXO_OMITIDO]DO]/2024-02  Autuação: G000025483  ORGAO: DETRAN  CONTATO PARA RETORNO:  Emai[TELEFONE_MEDIO_OMITIDO]MEDIO_OMITIDO]  11 789654123"
+  },
+  {
+    "row": 96,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 1,
+    "findings": [
+      {
+        "tipo": "TELEFONE",
+        "valor": "9876543216",
+        "risco": "MÉDIO",
+        "start": 285,
+        "end": 295,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.606181"
+      }
+    ],
+    "public_text": "Gostaria de saber porque os créditos do cartão CME do meu filho nao foi creditado sendo que a mesma atende todos os critérios para o recebimento.  Aluna: Maria Santos Fátima Vieira Ferreira, Data de nascimento: 12/12/2011 Nome da mãe: Betina Braga Souza CPF da mãe: 885.101.148-78 Nis:[TELEFONE_MEDIO_OMITIDO]5"
+  },
+  {
+    "row": 97,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 3,
+    "findings": [
+      {
+        "tipo": "PROCESSO_SEI",
+        "valor": "02510-25698413/2017-65",
+        "risco": "BAIXO",
+        "start": 39,
+        "end": 61,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.606437"
+      },
+      {
+        "tipo": "CEP",
+        "valor": "25698413",
+        "risco": "MÉDIO",
+        "start": 45,
+        "end": 53,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.606437"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "25698413/2017",
+        "risco": "BAIXO",
+        "start": 45,
+        "end": 58,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.606437"
+      }
+    ],
+    "public_text": "Não consigo ter acesso ao Processo SEI [PROCESSO_SEI_BAIXO_OMITIDO]_OMITIDO]ITIDO]/2017-65 no Der que trata de reclamação sobre multa e apreensão indevida de carro. Não tenho acesso à conclusão do processo e decisão final do der."
+  },
+  {
+    "row": 98,
+    "reason": "REGRAS/NER: achados detectados",
+    "findings_count": 10,
+    "findings": [
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "2012-56",
+        "risco": "BAIXO",
+        "start": 106,
+        "end": 113,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.608924"
+      },
+      {
+        "tipo": "E-MAIL",
+        "valor": "feito10@press.so",
+        "risco": "MÉDIO",
+        "start": 198,
+        "end": 214,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.608924"
+      },
+      {
+        "tipo": "TELEFONE",
+        "valor": "(95)99149-2006",
+        "risco": "MÉDIO",
+        "start": 696,
+        "end": 710,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.608924"
+      },
+      {
+        "tipo": "TELEFONE",
+        "valor": "(97)99201-2009",
+        "risco": "MÉDIO",
+        "start": 722,
+        "end": 736,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.608924"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "2574-15",
+        "risco": "BAIXO",
+        "start": 1687,
+        "end": 1694,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.608924"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "114286/2012",
+        "risco": "BAIXO",
+        "start": 1898,
+        "end": 1909,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.608924"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "0024865/2012",
+        "risco": "BAIXO",
+        "start": 1979,
+        "end": 1991,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.608924"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "845217/2012",
+        "risco": "BAIXO",
+        "start": 2057,
+        "end": 2068,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.608924"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "568421/2012",
+        "risco": "BAIXO",
+        "start": 2157,
+        "end": 2168,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.608924"
+      },
+      {
+        "tipo": "PROTOCOLO",
+        "valor": "586479/2012",
+        "risco": "BAIXO",
+        "start": 2250,
+        "end": 2261,
+        "detalhes": null,
+        "timestamp": "2026-01-29T00:31:17.608924"
+      }
+    ],
+    "public_text": "Denúncia - e-Ouvidoria Canal de comunicação entre o cidadão e a administração pública.  PROTOCOLO: 000254.[PROTOCOLO_BAIXO_OMITIDO]   Informações do Pedido Razão Social: gestaojaira_ CNPJ: 48.236.147/0001-89 E-mail: [E-MAIL_MEDIO_OMITIDO]   Secretaria: Contoladoria Geral Assunto: ASSÉDIO Data Pedido: 31/11/2012 Bairro Hortolândia Prazo de atendimento: 28/03/2024 Localização: Ministério Público do SP   Descrição: CARTA PRECATÓRIA PARA TABOÃO DA SERRA. PARA QUE NÃO EXISTA ESBULHO OU ASSÉDIO MORAL: DENUNCIA LIGAÇÕES TELEFÔNICAS MUDAS. OCORRÊNCIA REGISTRADO NAS DELEGACIAS.   COMUNICADO DO CIDADÃO CPF 551.169.500-18. Eduardo da Costa Barbosa (13/03/1956). Nascimento em Brasília, Distrito Federal. Número do telefone [TELEFONE_MEDIO_OMITIDO] e Whatsapp [TELEFONE_MEDIO_OMITIDO]. Nome social (se for o caso); Nome da mãe e do pai; funcionária pública Pablo da Vitória Simões. Endereço residência à Avenida São Luís 333 Taboão da Serra SP CEP 29. 192 - 170. Condomínio Municipal Hélio Silva Campos  * Motivo do pedido: Solicitação de providências após o registro de inúmeros e diversos boletins de ocorrências. VENDA DO IMÓVEL.   Simplificando a denúncia para fiscalização e proteção municipal. Motivo do pedido MONITORAMENTO INCOMUM E REGISTROS DE NOVAS OCORRÊNCIAS. A liberdade de locomoção é um direito fundamental amplo, assegurado a qualquer ser humano, mas que tem suas limitações. Nossa Constituição trata do direito à liberdade de locomoção em vários momentos, conforme se verá. No art. 5º, XV da Constituição Federal está escrito o seguinte.   MPSP:Protocolo realizado por Marcos Henrique da Silva Simoes, em nome de Edson Henrique da Costa Camargo. Os arquivos protocolados foram juntados nos autos Gampes nº 2012.01315.[PROTOCOLO_BAIXO_OMITIDO] Validador MPSP, basta digitar o(s) código(s) listado(s) abaixo:0KLDBF91 Fale Conosco: Contato direto com a Prefeitura Municipal de Taboão da Serra Data 31/11/2012 08:01:36 Assunto Justiça Protocolo: LAI-[PROTOCOLO_BAIXO_OMITIDO] Órgão: CGDF - Controladoria Geral do Distrito Federal Protocolo: LAI-[PROTOCOLO_BAIXO_OMITIDO] Órgão: PMDF - Polícia Militar do Distrito Federal Protocolo: LAI-[PROTOCOLO_BAIXO_OMITIDO] Órgão: PROCON/DF - Instituto de Defesa do Consumidor do Distrito Federal Protocolo: LAI-[PROTOCOLO_BAIXO_OMITIDO] Órgão: SEE - Secretaria de Estado de Educação do Distrito Federal Protocolo: LAI-[PROTOCOLO_BAIXO_OMITIDO] Órgão: SSP - Secretaria de Estado da Segurança Pública do Distrito Federal Meus registros."
+  }
+]

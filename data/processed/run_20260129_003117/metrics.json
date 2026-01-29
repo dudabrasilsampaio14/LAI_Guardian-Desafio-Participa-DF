@@ -1,0 +1,19 @@
+{
+  "metricas": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "accuracy": 1.0
+  },
+  "contagens": {
+    "vp": 14,
+    "fp": 0,
+    "fn": 0,
+    "vn": 8
+  },
+  "totais": {
+    "total": 22,
+    "positivos_reais": 14,
+    "negativos_reais": 8
+  }
+}
