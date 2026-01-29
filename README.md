@@ -1,117 +1,129 @@
-🏛️ **LAI Guardian**
+🛡️ LAI Guardian
 ============================================================
 
-**Auditoria, Classificação e Anonimização de Pedidos de Acesso à Informação com Foco em LGPD**
+**Proteção ativa de dados pessoais em pedidos de acesso à informação**
 
-1º Hackathon em Controle Social – **Desafio Participa DF**  
+1º Hackathon em Controle Social – Desafio Participa DF  
 Edital nº 10/2025 – Controladoria-Geral do Distrito Federal (CGDF)  
-Categoria: **Acesso à Informação**
+Categoria: Acesso à Informação
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![LGPD](https://img.shields.io/badge/Conformidade-LGPD-green)
-![Auditável](https://img.shields.io/badge/Resultado-Auditável-success)
-![Pipeline](https://img.shields.io/badge/Execução-Pipeline%20Completo-blueviolet)
-![Hackathon](https://img.shields.io/badge/Hackathon-Participa%20DF-orange)
+![LGPD](https://img.shields.io/badge/LGPD-Aplicada-success)
+![Auditoria](https://img.shields.io/badge/Auditoria-Rastreável-blueviolet)
+![Excel](https://img.shields.io/badge/Relatório-Excel%20Institucional-green)
+![Pipeline](https://img.shields.io/badge/Execução-Um%20Comando-orange)
 
 ---
 
-📌 **Contexto Institucional**
-------------------------------------------------------------
+## 📍 Visão Geral
 
-No âmbito da Lei de Acesso à Informação (Lei nº 12.527/2011), pedidos classificados como públicos **não podem conter dados pessoais**, sob pena de violação à Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018).
+O **LAI Guardian** é uma ferramenta desenvolvida para apoiar o tratamento de pedidos de acesso à informação que possam conter **dados pessoais**, oferecendo um mecanismo automatizado de **auditoria, classificação e anonimização**, com foco na **redução de risco LGPD**.
 
-Na prática administrativa, a triagem manual desses pedidos é custosa, sujeita a erro humano e difícil de auditar posteriormente.
-
-O **LAI Guardian** surge como uma solução automatizada de **apoio à decisão**, permitindo identificar pedidos que contenham dados pessoais, gerar versões seguras para publicação e produzir evidências técnicas para auditoria e controle.
+A solução atua como um **guardião preventivo** do processo de transparência, ajudando o órgão a identificar situações sensíveis antes da publicação, sem comprometer o direito de acesso à informação.
 
 ---
 
-🎯 **Objetivo da Solução**
-------------------------------------------------------------
+## 🧭 Problema Enfrentado
 
-Apoiar equipes de transparência, ouvidoria e controle interno na análise de pedidos de acesso à informação, reduzindo riscos jurídicos relacionados à LGPD e promovendo **padronização, rastreabilidade e segurança na tomada de decisão**, sem substituir a avaliação humana.
+Na rotina administrativa, pedidos LAI frequentemente incluem:
+- dados pessoais do solicitante
+- informações de terceiros
+- números de documentos, contatos e endereços
+- referências administrativas que podem gerar ambiguidade
 
----
+A análise manual desses pedidos é demorada, difícil de padronizar e pouco auditável.
 
-✅ **Funcionalidades Principais**
-------------------------------------------------------------
-
-### 🔍 Auditoria e Classificação Automática
-- Análise textual dos pedidos LAI
-- Identificação de dados pessoais e sensíveis
-- Diferenciação explícita entre:
-  - **dados pessoais (LGPD)**
-  - **identificadores administrativos** (SEI, CNJ, protocolos, números de processo)
+O LAI Guardian foi criado para **organizar esse processo**, fornecendo subsídios técnicos claros para a decisão final.
 
 ---
 
-### 🛡️ Anonimização com Trilha de Auditoria
-- Geração de versão publicável do texto (com tarjas)
-- Registro detalhado em JSON contendo:
-  - tipo de dado identificado
-  - valor original
+## 🎯 Finalidade da Solução
+
+Fornecer um **apoio técnico confiável** para equipes responsáveis pela transparência pública, permitindo:
+
+- reduzir a exposição indevida de dados pessoais
+- padronizar critérios de análise
+- registrar evidências para auditoria
+- acelerar o fluxo de resposta aos pedidos
+
+Sempre respeitando o papel decisório do servidor público.
+
+---
+
+## ⚙️ O que o LAI Guardian faz
+
+### 🔎 Análise e Classificação
+- Varre automaticamente o texto do pedido
+- Identifica dados pessoais e sensíveis
+- Reconhece padrões administrativos (SEI, CNJ, protocolos)
+- Evita classificações equivocadas por contexto
+
+---
+
+### 🛡️ Anonimização Controlada
+- Gera uma versão segura do texto, pronta para publicação
+- Aplica tarjas apenas onde necessário
+- Mantém o conteúdo informacional preservado
+
+---
+
+### 🧾 Trilha de Auditoria
+- Cada achado é registrado em JSON com:
+  - tipo de dado
   - posição no texto
   - nível de risco
-  - data e hora da detecção
+  - data e hora
+- Permite reavaliação posterior da decisão
 
 ---
 
-### 📊 Relatórios Institucionais
-- **Excel no padrão banca / CGDF / TCU**
-- Aba **Resumo Executivo**
-- Aba **Auditoria Detalhada**
-- Filtros automáticos e destaque por criticidade
+### 📊 Relatórios para Gestão e Controle
+- Excel estruturado para leitura institucional
+- Aba de **Resumo Executivo**
+- Aba de **Auditoria Detalhada**
+- Filtros, destaques visuais e organização por risco
 
 ---
 
-### 🧠 Camadas Técnicas (Opcional)
-- Treinamento de modelo estatístico leve (TF-IDF + Regressão Logística)
-- Avaliação técnica automática:
-  - Precisão
-  - Recall
-  - F1-Score
-  - Matriz de confusão
+## 📈 Resultados em Ambiente de Teste
+
+Execução do pipeline completo sobre **99 pedidos** da base *AMOSTRA_e-SIC*:
+
+| Indicador | Resultado |
+|---------|-----------|
+| Precisão | 100% |
+| Recall (Segurança) | 100% |
+| F1-Score | 100% |
+| Falsos Negativos | 0 |
+
+**Visão geral da auditoria:**
+- 52 pedidos com dados pessoais (52,53%)
+- Predominância de risco médio
+- Nenhum caso crítico não identificado
+
+Esses dados são consolidados automaticamente no relatório Excel.
 
 ---
 
-📊 **Resultados Obtidos em Execução Real**
-------------------------------------------------------------
+## ▶️ Execução Simplificada
 
-Execução do pipeline completo com **99 pedidos** da base *AMOSTRA_e-SIC*:
-
-| Métrica | Resultado |
-|------|-----------|
-| Precisão | **100%** |
-| Recall (Segurança) | **100%** |
-| F1-Score | **100%** |
-| Falsos Negativos (FN) | **0** |
-
-> A ausência de falsos negativos é especialmente relevante em contexto de LGPD, pois indica que nenhum pedido com dado pessoal deixou de ser identificado.
-
-**Resumo da Auditoria:**
-- Total de registros analisados: 99
-- Pedidos com dados pessoais: 52 (52,53%)
-
----
-
-🚀 **Execução Rápida**
-------------------------------------------------------------
+Todo o fluxo pode ser executado com um único comando:
 
 ```bash
 python run.py
-O comando executa automaticamente, conforme os arquivos disponíveis:
+Dependendo dos arquivos disponíveis, o sistema executa:
 
-Auditoria e classificação (Excel)
+auditoria dos pedidos
 
-Anonimização com trilha de auditoria (JSON)
+anonimização com trilha
 
-Treinamento e avaliação do modelo (opcional)
+treinamento e avaliação do modelo (opcional)
 
-As saídas são organizadas em:
+Os resultados são organizados em:
 
 data/processed/run_YYYYMMDD_HHMMSS/
-📂 Estrutura de Entrada Esperada
-Auditoria de pedidos
+📂 Estrutura Esperada
+Entrada principal (auditoria)
 data/raw/AMOSTRA_e-SIC.xlsx
 Coluna esperada:
 
@@ -119,33 +131,18 @@ Texto Mascarado
 
 Base rotulada (opcional)
 data/raw/dataset_labeled.csv
-🧠 Estratégia de Detecção
-O LAI Guardian adota abordagem híbrida:
+🧠 Abordagem Técnica (resumo)
+O LAI Guardian combina:
 
-Regras e Validações
+regras e validações formais
 
-Regex
+filtros contextuais
 
-Validação matemática de CPF (Módulo 11)
+processamento de linguagem natural (opcional)
 
-Filtros anti-falso-positivo
+modelo estatístico leve como apoio
 
-PLN (opcional)
+Identificadores administrativos são tratados separadamente para evitar falso enquadramento como dado pessoal.
 
-Reconhecimento de entidades (NER)
-
-Modelo Estatístico (opcional)
-
-Classificador leve como camada de apoio
-
-Identificadores administrativos são tratados explicitamente para evitar classificação indevida como dado pessoal.
-
-⚙️ Instalação
-python -m venv .venv
-.venv\Scripts\activate   # Windows
-source .venv/bin/activate # Linux/macOS
-pip install -r requirements.txt
-PLN (opcional):
-
-pip install spacy
-python -m spacy download pt_core_news_sm
+🏁 Considerações Finais
+O projeto foi desenvolvido com foco em aplicabilidade real, priorizando clareza, segurança jurídica e facilidade de uso, alinhado às diretrizes do Desafio Participa DF.
